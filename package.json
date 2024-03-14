@@ -1,0 +1,21 @@
+{
+  "name": "@dariuski/microdb",
+  "version": "1.0.0",
+  "description": "Lightweight plain store embedded database with mongodb interface",
+  "keywords": [
+    "nosql",
+    "embedded",
+    "database",
+    "microdb"
+  ],
+  "type": "module",
+  "main": "microdb.js",
+  "author": "Darius Kisonas",
+  "license": "MIT",
+  "homepage": "https://github.com/dariuski/microdb",
+  "bugs": "https://github.com/dariuski/microdb/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariuski/microdb.git"
+  }
+}
