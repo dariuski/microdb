@@ -14,7 +14,7 @@ const db = new MicroDB('microdb://tmp')
 const col = await db.collection('col')
 
 await col.insertOne({name: 'test', score: 100})
-await col.updateOne({score: {$gt: 50}, {comment: 'Best score'})
+await col.updateOne({score: {$gt: 50}}, {comment: 'Best score'})
 console.log(await col.find({}).toArray())
 await col.deleteOne({name: 'test'})
 ```
