@@ -1,5 +1,5 @@
 {
-  "name": "micro-db",
+  "name": "@dariuski/microdb",
   "version": "1.0.0",
   "description": "Lightweight plain store embedded database with MongoDB interface",
   "keywords": [
