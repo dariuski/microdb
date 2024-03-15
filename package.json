@@ -1,12 +1,13 @@
 {
-  "name": "@dariuski/microdb",
+  "name": "micro-db",
   "version": "1.0.0",
-  "description": "Lightweight plain store embedded database with mongodb interface",
+  "description": "Lightweight plain store embedded database with MongoDB interface",
   "keywords": [
     "nosql",
     "embedded",
     "database",
-    "microdb"
+    "microdb",
+    "mongodb"
   ],
   "type": "module",
   "main": "microdb.js",
